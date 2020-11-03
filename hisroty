@@ -1,0 +1,298 @@
+    1  cd E:\git\demo
+    2  cd E:/git/demo
+    3  git init
+    4  git status
+    5  echo "hello world" >>hello-world.txt
+    6  git status
+    7  git add .
+    8  git status
+    9  git commit -m "added new file(Renu)"
+   10  git status
+   11  git config --global user.email "renuchauhan068#gmail.com"
+   12  git config -global user.name Renu Chauhan"
+   13  git config -global user.name "Renu Chauhan"
+   14  exit
+   15  exit()
+   16  git commit -m "added finally new file"
+   17  git log
+   18  git remote add origin https://github.com/renuchauhan625/demogit.git
+   19  git push origin master
+   20  git push origin master
+   21  git remote set-url origin https://github.com/renuchauhan625/demogit.git
+   22  git push origin master
+   23  git pull origin master
+   24  cat hello-world.txt
+   25  git pull origin master
+   26  git pull origin master
+   27  cat hello-world.txt
+   28  git remote set-url origin 
+   29  git remote set-url origin https://github.com/renuchauhan625/demogit.git/
+   30  git pull origin master
+   31  git commit -m "modified file"
+   32  cat hello-world.txt
+   33  git pull origin master
+   34  git pull origin master
+   35  git commit -m "chngaes"
+   36  git add .
+   37  git commit -m "chngaes"
+   38  git pull origin master
+   39  git remote set-url origin https://github.com/renuchauhan625/demogit.git/
+   40  git push origin master
+   41  cat hello-world.txt
+   42  git pull origin master
+   43  git add .
+   44  git commit -m "modified file from github"
+   45  git pull origin master
+   46  cat hello-world.txt
+   47  git push origin master
+   48  git history>>"history"
+   49  history>> history.txt
+   50  git remote set-url origin https://github.com/renuchauhan65/demogit.git
+   51  git remote set-url origin https://github.com/renuchauhan65/demogit/
+   52  git remote set-url origin https://github.com/renuchauhan625/demogit.git
+   53  git init
+   54  git status
+   55  git nlog
+   56  git log
+   57  cd E:/git/demo2
+   58  git init
+   59  echo "echo">>file.txt
+   60  git status
+   61  git add file.txt
+   62  git status
+   63  git commit -m "initial commit for calculator app"
+   64  git status
+   65  cat file.txt
+   66  echo "hello" >> file.txt
+   67  cat file.txt
+   68  git log
+   69  git checkout master
+   70  git remote set-url origin https://github.com/renuchauhan625/demogit.git
+   71  git log  34974ca1529690d18b30ec773073e3cf992d75d1
+   72  git remote add origin https://github.com/renuchauhan625/demogit.git
+   73  git remote set-url origin https://github.com/renuchauhan625/demogit.git
+   74  git push origin master
+   75  git pull origin master
+   76  git push origin master
+   77  cd E:/git/demo/
+   78  git remote set-url origin https://github.com/renuchauhan625/demogit.git
+   79  git push orgin master
+   80  git pull orgin master
+   81  git remote add origin https://github.com/renuchauhan625/demogit.git
+   82  git remote set-url origin https://github.com/renuchauhan625/demogit.git
+   83  git push origin master
+   84  cat hello-world.txt
+   85  git remote set-url origin https://github.com/renuchauhan625/demogit.git
+   86  git push origin master
+   87  git pull origin master
+   88  git commit -m "chgaes done"
+   89  git add .
+   90  git commit -m "chgaes done"
+   91  git pull origin master
+   92  git log
+   93  cd E:/git/demo3
+   94  git init
+   95  echo "my new file" << first.txt
+   96  echo "hello world" >> first.txt
+   97  git add .
+   98  git status
+   99  git commit -m "added nee file in local repository"
+  100  cat first.txt
+  101  git log
+  102  git statsu
+  103  git status
+  104  git log
+  105  git push orgin https://github.com/renuchauhan625/demo2git.git
+  106  git remote add orgin https://github.com/renuchauhan625/do2git.git
+  107  git status
+  108  git push origin master
+  109  git push origin develo
+  110  git push origin develop
+  111  git push origin master
+  112  git status
+  113  cat first.txt
+  114  git log
+  115  git status
+  116  get chcekout master
+  117  git checkout master
+  118  git commit -m "furst"
+  119  git checkout HEAD
+  120  git remote add origin https://gihub.com/renuchauhan625@$ git remote add origin https://gihub.com/renuchauhan625@
+  121  git remote add origin https://github.com/renuchauhan625/demo2git.git
+  122  git push origin master
+  123  echo "new file" >> second.txt
+  124  cat second.txtx
+  125  cat second.txt
+  126  git status
+  127  git add second.txt
+  128  git commit -m "first commit"
+  129  git status
+  130  git remote set-url origin https://github.com/
+  131  git push origin master
+  132  git remote set-url origin https://github.com/renuchauhan625/demo2git.git
+  133  git push origin master
+  134  cat second.txt
+  135  git pull origin master
+  136  cat first.txt
+  137  git push origin master
+  138  cat second.txt
+  139  git pull origin master
+  140  cat second.txt
+  141  git checkout  e323bfc35dcec2a44a67cee180789ddb14cf20f6
+  142  cat second.txt
+  143  git push origin master
+  144  git status
+  145  git log
+  146  git checkout HEAD
+  147  git checkout master
+  148  git push origin develop
+  149  git remote set-url origin https://github.com/renuchauhan625/demo2git.git'
+  150  git remote set-url origin https://github.com/renuchauhan625/demo2git.git
+  151  git push origin develop
+  152  git checkout -b develop
+  153  echo "division" >> division.py
+  154  git add .
+  155  git commit -m "division python file is changed"
+  156  git push origin develop
+  157  echo "hey there" >> first.txt
+  158  git add .
+  159  git commit -m "first text file modified in develop branch"
+  160  git push origin develop
+  161  cat first.txt
+  162  history >> history.txt
+  163  claer
+  164  clear
+  165  history >> history.txt
+  166  git checkout Release-2.0
+  167  git checkout Release-2.0
+  168  git checkout Release 2.0
+  169  git conifg -l
+  170  git config -l
+  171  git remote set-url calc https://github.com/renuchauhan625/Calculator.git
+  172  git remote add calc https://github.com/renuchauhan625/Calculator.git
+  173  git chcekout Release-2.0
+  174  git checkout Release-2.0
+  175  git config -l
+  176  cd f:
+  177  cd e:
+  178  cd git
+  179  cd calcdemo
+  180  git chekout Release-2.0
+  181  git checkout Release-2.0
+  182  git chcekout -b feature_sin
+  183  git checkout -b feature_sin
+  184  touch sin.py
+  185  git add .
+  186  git commit -m "Added sin feature in Release-2.0
+  187  git commit -m "added sin feature in Release-2.0"
+  188  git push calc Release-2.0
+  189  git push calc feature_sin
+  190  ls
+  191  ls
+  192  history>>history
+  193  cd e:
+  194  cd git
+  195  mkdir Calci
+  196  cd Calci
+  197  git init
+  198  touch readme.txt
+  199  echo "readme file" >>readme.txt
+  200  cat readme.txt
+  201  git add .
+  202  git status
+  203  git commit -m "initial commit"
+  204  git remote calc master https://github.com/renuchauhan625/Calci.git
+  205  git remote  add calc master https://github.com/renuchauhan625/Calci.git
+  206  git push calc master
+  207  git remote  add calc  https://github.com/renuchauhan625/Calci.git
+  208  git push calc master
+  209  git pull calc Release_1.0
+  210  git chcekout Release_1.0
+  211  git checkout Release_1.0
+  212  git add "C:\Users\Renu\PycharmProjects\myfirst project\addition.py"
+  213  git add addition.py
+  214  git status
+  215  git commit -m "Added  addition file in Release_1.0"
+  216  git push calc Release_1.0
+  217  cd e:
+  218  cd git
+  219  mkdir Calculator Application
+  220  git add C:/Users/Renu/PycharmProjects/django_renu/selenium_demo.py
+  221  git init
+  222  git add C:/Users/Renu/PycharmProjects/django_renu/selenium_demo.py
+  223  git add .
+  224  cd Calculator
+  225  git init
+  226  git add .
+  227  git status
+  228  git commit -m "Added Application in Calculator"
+  229  git remote add origin https://github.com/renuchauhan625/Calculator_Application.git
+  230  git push origin master
+  231  git statsu
+  232  git status
+  233  cd e:
+  234  cd git
+  235  git init
+  236  git add .
+  237  git status
+  238  git commit -m "Application added into the repository"
+  239  git remmote set-url origin https://github.com/renuchauhan625/Calculator_Application.git
+  240  git remote set-url origin https://github.com/renuchauhan625/Calculator_Application.git
+  241  git remote add origin https://github.com/renuchauhan625/Calculator_Application.git
+  242  git push origin master
+  243  git pull origin master
+  244  git push origin master
+  245  git pull origin master
+  246  cd e
+  247  cd e:
+  248  cd git
+  249  cd Calculator
+  250  git init
+  251  git add calculator
+  252  git add Cal
+  253  git status
+  254  git add .
+  255  git status
+  256  git commit "Apllication Added into master repository"
+  257  git commit -m "Apllication Added into master repository"
+  258  git remote set-url origin https://github.com/renuchauhan625/Calculator_Application.git
+  259  git push origin master
+  260  git init
+  261  git add .
+  262  git status
+  263  git remote set-url origin 
+  264  git remote set-url origin https://github.com/renuchauhan625/Calculator_Application.git
+  265  git push origin master
+  266  git pull origin master
+  267  git push origin master
+  268  cd e:
+  269  cd git
+  270  cd Calculator
+  271  git init
+  272  git remote set-url origin https://github.com/renuchauhan625/Calculator_Application.git
+  273  git pull origin App
+  274  git checkout App
+  275  git add Calc
+  276  git add Application
+  277  git status
+  278  git rm Calc
+  279  git status
+  280  cat Application
+  281  cd Application
+  282  cd..
+  283  cd Calculator
+  284  cd e:
+  285  cd git
+  286  cd Calculator
+  287  git add .
+  288  git status
+  289  git commit -m "files"
+  290  git status
+  291  git add Application
+  292  git status
+  293  git commit -m "files are added"
+  294  git remote set-url origin https://github.com/renuchauhan625/Calculator_Application.git
+  295  git push origin App
+  296  git init
+  297  git add calculator
+  298  history>>hisroty
