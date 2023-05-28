@@ -192,6 +192,7 @@
   192  history>>history
   193  cd e:
   194  cd git
+  
   195  mkdir Calci
   196  cd Calci
   197  git init
