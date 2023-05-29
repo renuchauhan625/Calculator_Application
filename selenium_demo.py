@@ -12,7 +12,6 @@ select.select_by_value('add')
 time.sleep(2)
 driver.find_element_by_id("b1").click()
 time.sleep(5)
-
 driver.quit()
 
 
